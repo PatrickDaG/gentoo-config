@@ -1,0 +1,21 @@
+media-fonts/font-bh-ttf bh-luxi
+media-fonts/font-bh-type1 bh-luxi
+
+sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+# required by discord-bin (argument)
+>=net-im/discord-bin-0.0.15 all-rights-reserved
+# required by rar (argument)
+>=app-arch/rar-6.0.2_p20210611 RAR
+# required by nvidia-drivers (argument)
+>=x11-drivers/nvidia-drivers-470.63.01 NVIDIA-r2
+# required by spotify (argument)
+>=media-sound/spotify-1.1.68 Spotify
+# required by net-im/zoom (argument)
+>=net-im/zoom-5.8.0.16 all-rights-reserved
+# required by www-client/chromium-bin-102.0.5005.61-r1::gentoo[widevine]
+# required by chromium-bin (argument)
+>=www-plugins/chrome-binary-plugins-103.0.5060.33_beta:beta google-chrome
+# required by media-fonts/fonts-meta-2::gentoo[cjk]
+# required by @selected
+# required by @world (argument)
+>=media-fonts/mikachan-font-otf-9.1-r1 free-noncomm
