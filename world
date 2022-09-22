@@ -151,3 +151,7 @@ x11-misc/xclip
 x11-terms/kitty
 x11-terms/xterm
 x11-wm/herbstluftwm
+app-text/texlab
+dev-util/cloc
+net-analyser/wireshark
+dev-go/gopls
