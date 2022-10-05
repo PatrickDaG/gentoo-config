@@ -1,5 +1,6 @@
 media-fonts/font-bh-ttf bh-luxi
 media-fonts/font-bh-type1 bh-luxi
+sys-apps/man-pages-posix freedist
 
 sys-kernel/linux-firmware linux-fw-redistributable no-source-code
 # required by discord-bin (argument)
